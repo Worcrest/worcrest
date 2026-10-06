@@ -17,7 +17,7 @@
 
 ### 🌗 About me
 - ☁️ Securing cloud infrastructure on **AWS** by day
-- 🧪 Running a **Proxmox** homelab ("deathstar") by night — self-hosting, GPU-sharing, and breaking things on purpose
+- 🧪 Running a **Proxmox** homelab (**the Keep**) by night — self-hosting, GPU-sharing, and breaking things on purpose
 - 🔍 Into **OSINT**, threat intel, and dark web monitoring
 - 🎯 Sharpening skills on **TryHackMe** and **Hack The Box**
 - 🪙 Building Discord bots and real-time **crypto** tickers
@@ -26,7 +26,7 @@
 ### 🔨 Currently building
 - 🏰 **Worcrest Labs** — a homelab / security / gaming community on Discord — [come join](https://discord.gg/vP8xgPZ7jr)
 - 🤖 Discord bots (price tickers, Plex announcements) running on a Debian VM
-- 🖥️ The deathstar homelab — Proxmox, containers, and a shared RTX 5080
+- 🖥️ **The Keep** — my Proxmox homelab: containers, a shared RTX 5080, and Huginn & Muninn (the Discord bots)
 
 ### 🧰 Toolbox
 <p>
